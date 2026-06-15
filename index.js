@@ -8,3 +8,4 @@
 
 //merge two objects
 //merge strings
+//navbar with nested routes and need to add few
