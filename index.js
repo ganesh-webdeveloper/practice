@@ -7,3 +7,4 @@
 // console.log(b)
 
 //merge two objects
+//merge strings
